@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911533659407",
+    "project_id": "cargointernapp",
+    "storage_bucket": "cargointernapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911533659407:android:6847de80d08334fecb9a7a",
+        "android_client_info": {
+          "package_name": "com.example.cargo_intern_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNI06DCwbBzbWvqU9geNW9TJp9U4d9jZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
