@@ -72,7 +72,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito: ^5.5.0```
+  mockito: ^5.5.0yaml```
 
 
 These dependencies handle:
