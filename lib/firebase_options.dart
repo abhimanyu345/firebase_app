@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCe91wj8h2IFrEGN9L8yHU5HHCM8ry5Lco',
-    appId: '1:911533659407:web:7655960085085ca6cb9a7a',
+    apiKey: 'NOT UPLOADED ON GIT',
+    appId: 'NOT UPLOADED ON GIT',
     messagingSenderId: '911533659407',
     projectId: 'cargointernapp',
     authDomain: 'cargointernapp.firebaseapp.com',
@@ -50,16 +50,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCNI06DCwbBzbWvqU9geNW9TJp9U4d9jZQ',
-    appId: '1:911533659407:android:6847de80d08334fecb9a7a',
+    apiKey: 'NOT UPLOADED ON GIT',
+    appId: 'NOT UPLOADED ON GIT',
     messagingSenderId: '911533659407',
     projectId: 'cargointernapp',
     storageBucket: 'cargointernapp.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCqvW-r0DMkqvSwXCIErKUcHgTW0cMUBdo',
-    appId: '1:911533659407:ios:90602c4926ec7a85cb9a7a',
+    apiKey: 'NOT UPLOADED ON GIT',
+    appId: 'NOT UPLOADED ON GIT',
     messagingSenderId: '911533659407',
     projectId: 'cargointernapp',
     storageBucket: 'cargointernapp.firebasestorage.app',
@@ -67,8 +67,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCqvW-r0DMkqvSwXCIErKUcHgTW0cMUBdo',
-    appId: '1:911533659407:ios:90602c4926ec7a85cb9a7a',
+    apiKey: 'NOT UPLOADED ON GIT',
+    appId: 'NOT UPLOADED ON GIT',
     messagingSenderId: '911533659407',
     projectId: 'cargointernapp',
     storageBucket: 'cargointernapp.firebasestorage.app',
@@ -76,8 +76,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCe91wj8h2IFrEGN9L8yHU5HHCM8ry5Lco',
-    appId: '1:911533659407:web:8427f325628b132ecb9a7a',
+    apiKey: 'NOT UPLOADED ON GIT',
+    appId: 'NOT UPLOADED ON GIT',
     messagingSenderId: '911533659407',
     projectId: 'cargointernapp',
     authDomain: 'cargointernapp.firebaseapp.com',
