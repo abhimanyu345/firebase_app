@@ -72,7 +72,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito: ^5.5.0
+  mockito: ^5.5.0'''
 
 
 These dependencies handle:
@@ -88,7 +88,7 @@ Unique ID generation with uuid.
 Opening external links (like GitHub) using url_launcher.
 
 ## 4. Code Structure & Design Choices
-
+'''
    lib/
    ├─ auth/                  # Screens for login and OTP verification
    ├─ controllers/           # GetX controllers: AuthController, ApiController
@@ -98,7 +98,7 @@ Opening external links (like GitHub) using url_launcher.
    ├─ views/                 # Object CRUD screens
    ├─ main.dart              # Entry point and routing
    └─ firebase_options.dart  # Firebase configuration
-
+'''
 
 Key Design Choices:
 
