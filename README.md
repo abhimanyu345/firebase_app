@@ -58,20 +58,21 @@ Login using the dummy number and OTP.
 
 The project uses the following dependencies:
 
-`dependencies:
-flutter:
-sdk: flutter
-get: ^4.6.5
-firebase_core: ^2.25.0
-firebase_auth: ^4.8.0
-http: ^1.1.0
-uuid: ^3.1.0
-url_launcher: ^6.2.10
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  firebase_core: ^2.25.0
+  firebase_auth: ^4.8.0
+  http: ^1.1.0
+  uuid: ^3.1.0
+  url_launcher: ^6.2.10
 
 dev_dependencies:
-flutter_test:
-sdk: flutter
-mockito: ^5.5.0`
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.5.0
 
 
 These dependencies handle:
