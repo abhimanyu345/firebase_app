@@ -72,7 +72,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito: ^5.5.0yaml```
+  mockito: ^5.5.0
+```
 
 
 These dependencies handle:
