@@ -1,6 +1,7 @@
                                                             #Cargo Intern App
 https://cargointernapp.web.app/#/login
 https://drive.google.com/file/d/1G9ndOEcgW3wHzNZUl40qFHXjfIp-IMt-/view?usp=drive_link
+https://drive.google.com/file/d/1Gx_8qz6i-4t-Nkp-gDQKXd_pTog3aO5v/view?usp=sharing
 
 A cross-platform Flutter app (mobile & web) for managing objects, using Firebase OTP authentication and a REST API for CRUD operations. The app demonstrates real-world mobile and web app development concepts including state management, responsive UI, and secure authentication.
 
